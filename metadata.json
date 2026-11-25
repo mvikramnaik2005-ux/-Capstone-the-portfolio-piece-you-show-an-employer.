@@ -1,0 +1,6 @@
+{
+  "name": "SafeAI – Guardrailed AI Assistant",
+  "description": "Domain-restricted Programming and AI learning assistant with layered guardrails, evaluation suite, and token/cost telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
